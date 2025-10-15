@@ -162,7 +162,7 @@ LIMIT 25;
 
 * Combining data analysis with cloud and engineering knowledge leads to higher compensation.
 
-📈 Key Findings
+### 📈 Key Findings
 
 * Bengaluru is a strong hub for Data Analyst roles in India.
 
